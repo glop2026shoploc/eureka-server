@@ -1,5 +1,8 @@
+spring:
+  application:
+    name: eureka-server
 server:
-  port: 8761 # Le port standard universel pour Eureka
+  port: 8761
 
 eureka:
   client:
